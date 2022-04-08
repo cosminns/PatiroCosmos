@@ -1,0 +1,15 @@
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\bin\Debug\net6.0\CosmoPatiro.exe
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\bin\Debug\net6.0\CosmoPatiro.deps.json
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\bin\Debug\net6.0\CosmoPatiro.runtimeconfig.json
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\bin\Debug\net6.0\CosmoPatiro.dll
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\bin\Debug\net6.0\ref\CosmoPatiro.dll
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\bin\Debug\net6.0\CosmoPatiro.pdb
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\CosmoPatiro.csproj.AssemblyReference.cache
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\CosmoPatiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\CosmoPatiro.AssemblyInfoInputs.cache
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\CosmoPatiro.AssemblyInfo.cs
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\CosmoPatiro.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\CosmoPatiro.dll
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\ref\CosmoPatiro.dll
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\CosmoPatiro.pdb
+C:\Users\cosmi\source\repos\CosmoPatiro\CosmoPatiro\obj\Debug\net6.0\CosmoPatiro.genruntimeconfig.cache
